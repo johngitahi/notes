@@ -10,8 +10,9 @@
 - compilers & software design
 - art
 - literature (Africana, Western)
-- philosophy (ethics, religion, eastern)
+- physiology (neuro, endocrine)
 - mycology
+- physiology
 
 ## Reach Me
 I like meeting new people, learning about them, sharing what i know, and gaining new insights from our conversations.
