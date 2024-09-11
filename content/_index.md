@@ -12,7 +12,6 @@
 - literature (Africana, Western)
 - physiology (neuro, endocrine)
 - mycology
-- physiology
 
 ## Reach Me
 I like meeting new people, learning about them, sharing what i know, and gaining new insights from our conversations.
