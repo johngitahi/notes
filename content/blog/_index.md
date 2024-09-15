@@ -1,3 +1,3 @@
 k+++
-title = "Blog"
+title = "blog"
 +++
