@@ -13,7 +13,7 @@
 - history
 - music production
 
-## Reach Me
+## reach me
 I like meeting new people, sharing what i know, and gaining new experiences.
 
 * Email: [Email](mailto:gitahi109@gmail.com)
