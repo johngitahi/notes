@@ -1,9 +1,8 @@
 ### whoami
 1. **programmer**
-2. **amateur writer** 
-3. **student nurse** at kabarak uni
-4. **math/medicine hobbyist**
-5. wannabe **music producer** of hiphop music 
+2. **entrepreneur** building [zipT Deliveries](https://ziptdeliveries.com)
+3. **amateur writer**
+4. **student nurse** at kabarak uni
 
 ### interests
 - compilers & software design
@@ -11,9 +10,11 @@
 - literature (fiction, realism, short story)
 - physiology (neuro, endocrine)
 - mycology
+- history
+- music production
 
 ## Reach Me
-I like meeting new people, learning about them, sharing what i know, and gaining new experiences from people.
+I like meeting new people, sharing what i know, and gaining new experiences.
 
 * Email: [Email](mailto:gitahi109@gmail.com)
 
