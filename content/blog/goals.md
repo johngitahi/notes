@@ -6,7 +6,6 @@ tags = []
 description = "my personal reflections on the goals i have had in the past few years"
 +++
 
-# Personal reflections on my goals
 I am reminding myself that the best way to live is to stay focused on my goals. I have been rudderless for the past two years — not because I had no set goals or did not work on my goals, but because I was careless with how I executed plans. Especially the short-term goals. It is a sad realization which has been difficult to confront.
 
  To make it more relatable, I have been lacking in discipline. It comes to the basics:
@@ -21,4 +20,4 @@ And so with this realization, I am challenging myself to be careful and strict, 
 
 I choose to end this piece of writing with this quote from *Crime and Punishment*, reminding me to not lose sight of the goals/moral code I have set:
 
-> Your worst sin is that you've destroyed and betrayed yourself for nothing ~ Dostoevsky
+> Your worst sin is that you've destroyed and betrayed yourself for nothing
