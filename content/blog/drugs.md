@@ -7,7 +7,7 @@ date = "2024-11-30T12:24:50+03:00"
 #
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
-tags = [drugs, reasons]
+tags = []
 +++
 
 Eric Fromm in his book The Art Of Loving shares that as humans, we are constantly seeking to quench the thirst of separateness and loneliness; that separateness is what breeds anxiety. Many people try to satisfy this need by using drugs and sex. I understand what he meant by that because I am currently going through that phase when I feel so overwhelmed and separated and the next thing that I can think of is either to find a partner or use drugs to cope.
