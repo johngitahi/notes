@@ -1,5 +1,5 @@
 +++
-title = "A_year_in_ai"
+title = "A year in AI"
 date = "2024-12-08T12:31:26+03:00"
 
 #
@@ -7,7 +7,7 @@ date = "2024-12-08T12:31:26+03:00"
 #
 # description = "A promise to myself about learning AI"
 
-tags = [letter]
+tags = []
 +++
 To myself,
 
@@ -25,4 +25,5 @@ I trust you can do this. The reward for mastering AI by Dec 2025: 2 weeks vacati
 
 
 thanks,
+
 gitahi
