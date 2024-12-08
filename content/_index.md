@@ -1,23 +1,21 @@
 ### whoami
 1. **programmer**
 2. **entrepreneur** building [zipT Deliveries](https://ziptdeliveries.com)
-3. **amateur writer**
-4. **student nurse** at kabarak uni
+3. **student nurse** at kabarak uni
+4. **amateur writer**
 
 ### interests
 - compilers & software design
 - art
-- literature (fiction, realism, short story)
-- physiology (neuro, endocrine)
-- mycology
+- physiology (neuro and endocrine)
+- microbiology (fungi and bacteria)
 - history
-- music production
 
 ## reach me
-I like meeting new people, sharing what i know, and gaining new experiences.
+I like learning, having conversations about interesting things(see above), and listening to funny/interesting people. If you want to connect with me, here's how to:
 
 * Email: [Email](mailto:gitahi109@gmail.com)
 
 * Everywhere: [Link](https://opl.to/gth)
 
-* Download my [GPG Public Key](https://keys.openpgp.org/vks/v1/by-fingerprint/FF74311E208CCA6F4A7C983D828D609612C97714)
+* Download my [GPGPublic Key](https://keys.openpgp.org/vks/v1/by-fingerprint/FF74311E208CCA6F4A7C983D828D609612C97714)
